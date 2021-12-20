@@ -1,0 +1,11 @@
+﻿level,lgbt_support,gender,age_group,support,no_evidence,country,date_extracted,source
+National,Yes,Male,gen_z,5500000,18400000,USA,2021-09-13,facebook
+National,Yes,Male,millenial,5400000,27600000,USA,2021-09-13,facebook
+National,Yes,Male,gen_x_1,2800000,19200000,USA,2021-09-13,facebook
+National,Yes,Male,gen_x_2,1480000,14820000,USA,2021-09-13,facebook
+National,Yes,Male,baby_boomer,1080000,11020000,USA,2021-09-13,facebook
+National,Yes,Female,gen_z,8500000,16400000,USA,2021-09-13,facebook
+National,Yes,Female,millenial,8400000,22600000,USA,2021-09-13,facebook
+National,Yes,Female,gen_x_1,4900000,21100000,USA,2021-09-13,facebook
+National,Yes,Female,gen_x_2,2900000,17000000,USA,2021-09-13,facebook
+National,Yes,Female,baby_boomer,2180000,15120000,USA,2021-09-13,facebook

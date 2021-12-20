@@ -1,0 +1,61 @@
+﻿level,lgbt_support,gender,age_group,n_millions,POP,country,date_extracted,source
+National,Yes,Male,15-19,1.7,1700000,USA,2021-09-13,facebook
+National,Yes,Male,20-24,3.8,3800000,USA,2021-09-13,facebook
+National,Yes,Male,25-29,3.1,3100000,USA,2021-09-13,facebook
+National,Yes,Male,30-34,2.3,2300000,USA,2021-09-13,facebook
+National,Yes,Male,35-39,1.6,1600000,USA,2021-09-13,facebook
+National,Yes,Male,40-44,1.2,1200000,USA,2021-09-13,facebook
+National,Yes,Male,45-49,0.8,800000,USA,2021-09-13,facebook
+National,Yes,Male,50-54,0.68,680000,USA,2021-09-13,facebook
+National,Yes,Male,55-59,0.66,660000,USA,2021-09-13,facebook
+National,Yes,Male,60-64,0.42,420000,USA,2021-09-13,facebook
+National,Yes,Female,15-19,2.7,2700000,USA,2021-09-13,facebook
+National,Yes,Female,20-24,5.8,5800000,USA,2021-09-13,facebook
+National,Yes,Female,25-29,4.5,4500000,USA,2021-09-13,facebook
+National,Yes,Female,30-34,3.9,3900000,USA,2021-09-13,facebook
+National,Yes,Female,35-39,2.7,2700000,USA,2021-09-13,facebook
+National,Yes,Female,40-44,2.2,2200000,USA,2021-09-13,facebook
+National,Yes,Female,45-49,1.6,1600000,USA,2021-09-13,facebook
+National,Yes,Female,50-54,1.3,1300000,USA,2021-09-13,facebook
+National,Yes,Female,55-59,1.3,1300000,USA,2021-09-13,facebook
+National,Yes,Female,60-64,0.88,880000,USA,2021-09-13,facebook
+National,No Evidence,Male,15-19,5.2,5200000,USA,2021-09-13,facebook
+National,No Evidence,Male,20-24,13.2,13200000,USA,2021-09-13,facebook
+National,No Evidence,Male,25-29,14.9,14900000,USA,2021-09-13,facebook
+National,No Evidence,Male,30-34,12.7,12700000,USA,2021-09-13,facebook
+National,No Evidence,Male,35-39,10.4,10400000,USA,2021-09-13,facebook
+National,No Evidence,Male,40-44,8.8,8800000,USA,2021-09-13,facebook
+National,No Evidence,Male,45-49,7.6,7600000,USA,2021-09-13,facebook
+National,No Evidence,Male,50-54,7.22,7220000,USA,2021-09-13,facebook
+National,No Evidence,Male,55-59,5.94,5940000,USA,2021-09-13,facebook
+National,No Evidence,Male,60-64,5.08,5080000,USA,2021-09-13,facebook
+National,No Evidence,Female,15-19,5.2,5200000,USA,2021-09-13,facebook
+National,No Evidence,Female,20-24,11.2,11200000,USA,2021-09-13,facebook
+National,No Evidence,Female,25-29,11.5,11500000,USA,2021-09-13,facebook
+National,No Evidence,Female,30-34,11.1,11100000,USA,2021-09-13,facebook
+National,No Evidence,Female,35-39,11.3,11300000,USA,2021-09-13,facebook
+National,No Evidence,Female,40-44,9.8,9800000,USA,2021-09-13,facebook
+National,No Evidence,Female,45-49,8.4,8400000,USA,2021-09-13,facebook
+National,No Evidence,Female,50-54,8.6,8600000,USA,2021-09-13,facebook
+National,No Evidence,Female,55-59,7.7,7700000,USA,2021-09-13,facebook
+National,No Evidence,Female,60-64,7.42,7420000,USA,2021-09-13,facebook
+Population,NA,Male,15-19,10.75,10745607,USA,2020-06-01,us census bureau
+Population,NA,Male,20-24,11.06,11064752,USA,2020-06-01,us census bureau
+Population,NA,Male,25-29,12,12004570,USA,2020-06-01,us census bureau
+Population,NA,Male,30-34,11.35,11354610,USA,2020-06-01,us census bureau
+Population,NA,Male,35-39,10.88,10884941,USA,2020-06-01,us census bureau
+Population,NA,Male,40-44,9.91,9907139,USA,2020-06-01,us census bureau
+Population,NA,Male,45-49,10.09,10085355,USA,2020-06-01,us census bureau
+Population,NA,Male,50-54,10.09,10086611,USA,2020-06-01,us census bureau
+Population,NA,Male,55-59,10.64,10642489,USA,2020-06-01,us census bureau
+Population,NA,Male,60-64,9.86,9856730,USA,2020-06-01,us census bureau
+Population,NA,Female,15-19,10.31,10308963,USA,2020-06-01,us census bureau
+Population,NA,Female,20-24,10.57,10568188,USA,2020-06-01,us census bureau
+Population,NA,Female,25-29,11.5,11504446,USA,2020-06-01,us census bureau
+Population,NA,Female,30-34,11.08,11076695,USA,2020-06-01,us census bureau
+Population,NA,Female,35-39,10.85,10852580,USA,2020-06-01,us census bureau
+Population,NA,Female,40-44,10.01,10014484,USA,2020-06-01,us census bureau
+Population,NA,Female,45-49,10.31,10312396,USA,2020-06-01,us census bureau
+Population,NA,Female,50-54,10.39,10390540,USA,2020-06-01,us census bureau
+Population,NA,Female,55-59,11.23,11234902,USA,2020-06-01,us census bureau
+Population,NA,Female,60-64,10.71,10714416,USA,2020-06-01,us census bureau
